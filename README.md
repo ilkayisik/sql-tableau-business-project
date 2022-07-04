@@ -1,13 +1,14 @@
 # sql-tableau-business-project
-This repository contains scripts containing queries to extract data from a sql database.
 
-In the repo you will find the following files:
+### __WBS Coding School Project 01: Exploration of a real world dataset using MySQL__
 
-file-name-01.sql: here are the queries for exploring the data.
-file-name-02.sql: other-file: here are the queries to solve the business questions to answer whether it is a good idea for ENIAC to expand into the Brazilian market.
+The aim of the project was to decide whether ENIAC (a European tech company specialised in Apple compatible accessories) should expand its business to the Brazilian market or not. 
+As data analysts our task was to explore a publicly available, real life dataset (Magist) to answer the business questions based on data and make a recommendation to the board of directors. 
 
-Explain what you did in more detail.
-In this project we worked with the Magist dataset. 
+> This repository contains the following files:
 
-The Project had one main question: Should Eniac expand it's business to Brazil or not. 
-After exploraring the database with MySQL we created visualizations with Tableau.
+- magist_sql_queries.sql: the queries for exploring the data
+- data/magist_dump.sql: the data that can be loaded into MySQL
+- data/CSVs: the data in csv file format (that can be loaded into Tableau)
+
+__TO DOs __: add the charts and graphs created with created
