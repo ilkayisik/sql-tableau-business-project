@@ -11,4 +11,4 @@ As data analysts our task was to explore a publicly available, real life dataset
 - data/magist_dump.sql: the data that can be loaded into MySQL
 - data/CSVs: the data in csv file format (that can be loaded into Tableau)
 
-__TO DOs __: add the charts and graphs created with created
+__TO DOs __: add the charts and graphs created with Tableau
