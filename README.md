@@ -2,11 +2,14 @@
 
 ### __Exploration of a real world dataset using MySQL__
 
+![schema_database](https://github.com/ilkayisik/sql-tableau-business-project/blob/main/data_sql_schema.png?raw=true)
+
+
 In this project I explored a publicly available, real life dataset to generate insights and provide actionable recommendations to (a hypothetical) board of directors.
 
 The aim of the project was to decide whether ENIAC (a European tech company specialised in Apple compatible accessories) should expand its business to the Brazilian market or not.
 
-The company is exploring an expansion to the Brazilian market because it has a high eCommerce revenue and even a higher potential for growth but Eniac lacks the general knowledge of the market and also does not have ties with local providers, package delivery services, or customer service agencies. To solve these problems ENIAC is considering working with Magist a Brazilian Software as a Service company that offers a centralized order management system to connect small and medium-sized stores with the biggest Brazilian marketplaces. Eniac is considering signing a deal with Magist but not everyone in the company is sure that thisis the right decision. 
+The company is exploring an expansion to the Brazilian market because it has a high eCommerce revenue and even a higher potential for growth but Eniac lacks the general knowledge of the market and also does not have ties with local providers, package delivery services, or customer service agencies. To solve these problems ENIAC is considering working with Magist a Brazilian Software as a Service company that offers a centralized order management system to connect small and medium-sized stores with the biggest Brazilian marketplaces. Eniac is considering signing a deal with Magist but not everyone in the company is sure that thisis the right decision.
 
 There are two main concerns:
 
