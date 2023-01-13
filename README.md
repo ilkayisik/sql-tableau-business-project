@@ -25,4 +25,4 @@ There are two main concerns:
 - magist_sql_queries.sql: the queries for exploring the data
 
 
-__TO DOs __: add the charts and graphs created with Tableau
+![tableau_dashboard](https://github.com/ilkayisik/sql-tableau-business-project/blob/main/eniac_dashboard.png?raw=true
