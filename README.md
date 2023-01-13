@@ -18,11 +18,12 @@ There are two main concerns:
 - Among Eniac’s efforts to have happy customers, fast deliveries are key. The delivery fees resulting from Magist’s deal with the public Post Office might be cheap, but at what cost? Are deliveries fast enough?
 
 
+![tableau_dashboard](https://github.com/ilkayisik/sql-tableau-business-project/blob/main/eniac_dashboard.png?raw=true)
+
+
+
 > The scripts in this repository contains the following code answering these questions:
 
 - data/magist_dump.sql: the data that can be loaded into MySQL
 - data/CSVs: the data in csv file format (that can be loaded into Tableau)
 - magist_sql_queries.sql: the queries for exploring the data
-
-
-![tableau_dashboard](https://github.com/ilkayisik/sql-tableau-business-project/blob/main/eniac_dashboard.png?raw=true)
