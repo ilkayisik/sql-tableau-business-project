@@ -25,4 +25,4 @@ There are two main concerns:
 - magist_sql_queries.sql: the queries for exploring the data
 
 
-![tableau_dashboard](https://github.com/ilkayisik/sql-tableau-business-project/blob/main/eniac_dashboard.png?raw=true
+![tableau_dashboard](https://github.com/ilkayisik/sql-tableau-business-project/blob/main/eniac_dashboard.png?raw=true)
